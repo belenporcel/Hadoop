@@ -5,3 +5,6 @@ This repository contains the deliverable "Data Dictionary" and the dataset used 
 ### Repository contents 
 2) [x] A document detailing the data we are going to use (Data Dictionary).
 2) [x] The csv file dataset consists on more than 500.000 instances, each representing a credit card applicant with 18 attributes and the first line is column heading.
+
+### Source of the dataset
+IE School of Human Sciences and Technology professor Roberto Costumero Moreno
