@@ -7,7 +7,7 @@ This repository contains the deliverable "Data Dictionary" and the dataset used 
 2) [x] The csv file dataset consists on more than 500.000 instances, each representing a credit card applicant with 18 attributes and the first line is column heading.
 
 ### Sample dataset
-![](Hadoop/Sample DataSet.png)
+<img src="Hadoop/Sample DataSet.png">
 
 ### Source of the dataset
 IE School of Human Sciences and Technology professor Roberto Costumero Moreno
